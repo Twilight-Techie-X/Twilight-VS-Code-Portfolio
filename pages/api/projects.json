@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Cosmix",
+    "image": "https://imgur.com/wfsPWCk.png",
+    "description": "Twilight's very own real time messaging service!",
+    "tags": ["django", "bootstrap", "sqlite", "javascript", "django channels"],
+    "source_code": "https://github.com/Twilight-Techie-X/Cosmix",
+    "demo": "https://cosmix-t4we.onrender.com/"
+  },
+  {
+    "id": 2,
+    "name": "Retgrow Learn",
+    "image": "https://imgur.com/dFdIqs4.png",
+    "description": "Web app built for Retgrow Initiative to aid students' tech learning journey.",
+    "tags": ["django", "bootstrap", "sqlite", "javascript"],
+    "source_code": "https://github.com/Twilight-Techie-X/Retgrow-Learn",
+    "demo": "https://retgrow-learn.onrender.com/"
+  },
+  {
+    "id": 3,
+    "name": "Solar System Simulation",
+    "image": "https://imgur.com/NYboJQJ.jpg",
+    "description": "Solar system simulation with WebGL, TypeScript and Three.js",
+    "tags": ["webgl", "typescript", "threejs"],
+    "source_code": "https://github.com/Twilight-Techie-X/Solar-System-Simulation"
+  },
+  {
+    "id": 4,
+    "name": "Twilight Techie's Portfolio",
+    "image": "https://imgur.com/WiMm8c4.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/Twilight-Techie-X"
+  }
+]
