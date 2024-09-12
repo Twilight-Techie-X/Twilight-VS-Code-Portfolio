@@ -30,7 +30,7 @@ const ArticlesPage = ({ articles }) => {
 
 export async function getStaticProps() {
   const res = await fetch(
-    'https://dev.to/api/articles/me/published?per_page=6',
+    'https://dev.to/api/articles/me/published?',
     {
       headers: {
         'api-key': process.env.DEV_TO_API_KEY,
